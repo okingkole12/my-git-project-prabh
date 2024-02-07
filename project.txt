@@ -1,0 +1,10 @@
+In this project I did the following activities:
+
+
+Launch Amazon Linux EC2 Instance and Set Up a Basic Apache Web Server. Test the Apache Web Server by Public IP Address. Delete the Instance. Record everything and upload the video to your google drive as per instruc􀆟on.
+
+
+Launch Windows Server 2022 EC2 Instance and Set Up an Internet Informa􀆟on Server (IIS). Test the IIS Server by Public IP Address. Delete the Instance. Record everything and upload the video to your google drive as per instruc􀆟on.
+
+
+Create two EC2 Instances, create an Applica􀆟on Load Balancer and test the Applica􀆟on Load Balancer. Delete two Instances and Load Balancer. Record everything and upload the video to your google drive as per instruc􀆟on.
